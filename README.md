@@ -33,7 +33,7 @@ The model is trained on two popular emotional speech datasets:
 - Pandas
 - Numpy
 - Matplotlib
-- sk-learn
+- Sk-learn
 - joblib
 
 ## Usage
